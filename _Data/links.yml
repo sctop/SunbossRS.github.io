@@ -2,26 +2,26 @@
 # Like a "brain" of website.
 
 # minecraft-link
-MCOG:
+mcog:
   name: 'MC联机组队群'
   url: 'http://mcog.s.cn.vc'
   
-MCPXG:
+mcpxg:
   name: 'MC玩家交流群'
   url: 'sunbossrs.github.io/404.html'
   
-MCNET:
+mcnet:
   name: 'minecraft.net'
   url: 'http://minecraft.net'
   
-UiPack:
+uipack:
   name1: 'UiPack材质包官网'
   url1: 'http://uipack.techplayer.org'
   
   name2: 'UiPack-Classic材质包'
   url2: 'http://uipack.techplayer.org/classic'
   
-ACHIVEMENT:
+achivement:
   name: 'MC自定义成就生成图站'
   url: 'http://mc.whitegem.net/'
   
@@ -43,10 +43,10 @@ townwang:
   url: 'http://townwang.com'
   
 # OtherType-link
-UbuntuTour:
-  name: 'UbuntuTour'
+ubuntutour:
+  name: 'ubuntutour'
   url: 'http://tour.ubuntu.com/zn-CN'
   
-UbuntuBrowserStartPage:
+ubuntubrowserstartpage:
   name: 'Ubuntu浏览器的开始页'
   url: 'http://start.ubuntu.com/'
